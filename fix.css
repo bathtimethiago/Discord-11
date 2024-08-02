@@ -8,3 +8,10 @@
     margin: 0px 4px 4px;
     border-radius: var(--winrad3);
 }
+
+/* Mica Noise Effect */
+
+.accountProfilePopoutWrapper_b2ca13 .body_ad5fac {
+    overflow: overlay !important;
+    padding-right: 8px !important;
+}
