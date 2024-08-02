@@ -8,6 +8,5 @@ background: var(--bg-overlay-1,var(--background-secondary-alt));
 }
 #vc-spotify-player, .container_6sXIoE {
 margin: 0px 4px 4px;
-padding: 3px 6px;
 border-radius: var(--winrad3);
 }
