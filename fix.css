@@ -1,0 +1,13 @@
+/* Spotify Controls Fix */
+
+.theme-dark .container_b2ca13, .theme-dark .activityPanel_a4d4d9, .theme-dark .container_adcaac, .theme-dark .container-6sXIoE, .container_6sXIoE {
+border: var(--windarkborder2);
+}
+.theme-dark .container_b2ca13, .container_6sXIoE {
+background: var(--bg-overlay-1,var(--background-secondary-alt));
+}
+.container_6sXIoE {
+margin: 0px 4px 4px;
+padding: 3px 6px;
+border-radius: var(--winrad3);
+}
